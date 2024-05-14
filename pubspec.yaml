@@ -1,7 +1,8 @@
-name: view_model
+name: view_model_divider
 description: "A new Flutter package that divide a business logic from a UI part of a widget."
-version: 0.0.1-1.0.beta
-homepage:
+version: 0.0.1-1.1.beta
+homepage: https://github.com/dronn1k-org/view_model
+repository: https://github.com/dronn1k-org/view_model
 
 environment:
   sdk: '>=3.3.4 <4.0.0'
